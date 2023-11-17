@@ -9,7 +9,7 @@ public class startgame : MonoBehaviour
  
  public void startgames(){
 
-    Debug.Log
+    Debug.Log("yhhu");
  }
    
 }

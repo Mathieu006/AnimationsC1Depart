@@ -37,6 +37,8 @@ void OnTriggerEnter(Collider other)
 
         _porteDroite.GetComponent<Animator>().SetBool("Ouvre", true);
 
+        _porteGauche.GetComponent<Animator>().SetBool("Ouvre", true);
+
     }
 }
 
